@@ -1,2 +1,0 @@
-# PersonalBlog
-Learning Purpose
